@@ -45,4 +45,4 @@ jobs:
           git config --global user.name "2300031444"
           git config --global user.email "2300031444@kluniversity.in"
           npm install -g gh-pages
-          gh-pages -d dist -r https://x-access-token:${GITHUB_TOKEN}@github.com/srithars/s207.git
+          gh-pages -d dist -r https://x-access-token:${GITHUB_TOKEN}@github.com/klu2300031444/s111-skill3.git
